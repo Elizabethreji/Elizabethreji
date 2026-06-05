@@ -50,7 +50,6 @@ LLM-powered system that evaluates visa eligibility using structured user inputs 
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-reji-71a0a7255)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elizabethreji89@gmail.com)
 
 ---
 
